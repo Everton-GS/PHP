@@ -1,4 +1,9 @@
 <?php
+/**
+ * @param int $x primeira variável utilizada na operação
+ * @param int $y segunda  variável utilizada na operação
+ */
+
 
 function soma($x,$y)
 {
